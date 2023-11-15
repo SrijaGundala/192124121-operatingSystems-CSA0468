@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
-
 #define NUM_THREADS 4
 #define ITERATIONS 5
 
